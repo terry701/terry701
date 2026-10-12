@@ -13,7 +13,7 @@
 
 ### 📷 個人照片
 
-<img src="./perry.jpg" alt="個人照片" width="220">
+<img src="./terry.jpeg" alt="個人照片" width="220">
 ## 2. 關於我 About Me
 
 我是一名對資訊科技、資料科學與生命科學有興趣的大學生。
