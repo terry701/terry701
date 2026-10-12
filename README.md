@@ -5,12 +5,15 @@
 | 項目 | 內容 |
 |---|---|
 | 姓名 / Name | 蘇得睿 |
-| 身分 / Year | 大學生 |
-| 興趣領域 | 資訊科技、資料科學、生命科學 |
+| 系級 / Department & Year | 生科系大一 |
+| 學校 / University | 台灣海洋大學 |
+| 家鄉 / Hometown | 桃園 |
+| Email |  |
 | GitHub | [terry701](https://github.com/terry701) |
 
----
+### 📷 個人照片
 
+<img src="./perry.jpg" alt="個人照片" width="220">
 ## 2. 關於我 About Me
 
 我是一名對資訊科技、資料科學與生命科學有興趣的大學生。
